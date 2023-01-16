@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋🏽 Hi, my name is Jerocelle
+### 
 
-<!--
-**jerocelle/jerocelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 Graduated from the University of Cebu with a degree in Business Administration, Marketing Management. and Cebu Technological University with an associate's in Industrial Technology, Drafting 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌴 Cebu native, with a passion for database management, reporting, and analytics
+
+- 📈 Lead data governance and performance insights for marketing agencies. Created a streamlined process for Google Tag Manager and Google Analytics implementation and constantly updated it with new information. 
+
+- 💻 Help organizations understand healthy data culture and mentor those who want to pivot their careers to data
+
+- 🚅 I travel for food, especially home-cooked meals, sweets, and pastries. 
+
+- 💪🏽 SQL, Data Governance, Data Visualization, Analytics, Digital Marketing# xyLocks
+# xyLocks
+# xyLocks
+# xyLocks
+# xyLocks
