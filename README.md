@@ -1,5 +1,5 @@
 ### 👋🏽 Hi, my name is Jerocelle
-### 💻 exploring Data Engineering and Dota
+### 💻 exploring Data Engineering and Dota 2
 
 
 
