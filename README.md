@@ -1,11 +1,12 @@
 ### 👋🏽 Hi, my name is Jerocelle
-### 💻 exploring Data Engineering and Dota 2
+### 💻 exploring Data & Analytics
 
 
 
-- 📈 Data & Analytics Manager - SQL/GCP, Data Volunteer - Asians in Advertising, Conversion Tracking Expert - GTM/GA
+- 📈 SQL/GCP, Conversion Tracking Expert - GTM/GA
+- 🤝 Volunteer | Co-Organizer @ MeasureCamp NY, (prev) Data @ Asian in Advertising
 - 🌴 Cebu, PH 🇵🇭 native; currently in Brooklyn, NY 🌉
-- ⚡ passion for anime, food and calligraphy
+- ⚡ passion for anime, volleyball, and calligraphy
 
 
 
